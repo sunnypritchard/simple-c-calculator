@@ -1,1 +1,1 @@
-# Simple C calculator
+# Simple C Calculator
